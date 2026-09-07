@@ -1,1 +1,0 @@
-# movie_ticket_booking-SYSTEM_DESIGN
